@@ -1,4 +1,4 @@
 abc
 def
-Master master masterMaster master master
+Master master master
 dev dev dev
